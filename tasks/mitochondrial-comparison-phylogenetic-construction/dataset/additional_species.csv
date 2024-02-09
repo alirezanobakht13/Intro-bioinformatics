@@ -1,0 +1,11 @@
+taxo_id,specie,blast_name,genbank_common_name,accession_number,mtDNA
+,Loxodonta cyclotis,Eukaryota,African forest elephant,NC_020759.1,https://www.ncbi.nlm.nih.gov/nucleotide/NC_020759.1
+,Turdus migratorius,Eukaryota,American robin,NC_024872.1,https://www.ncbi.nlm.nih.gov/nucleotide/NC_024872.1
+,Panthera tigris tigris,Eukaryota,Bengal tiger,MH427533.1,https://www.ncbi.nlm.nih.gov/nucleotide/MH427533.1
+,Carcharodon carcharias,Eukaryota,great white shark,NC_022415.1,https://www.ncbi.nlm.nih.gov/nucleotide/NC_022415.1
+,Danaus plexippus,Eukaryota,monarch butterfly,NC_021452.1,https://www.ncbi.nlm.nih.gov/nucleotide/NC_021452.1
+,Apis mellifera,Eukaryota,honey bee,MK140906.1,https://www.ncbi.nlm.nih.gov/nucleotide/MK140906.1
+,Eunectes murinus,Eukaryota,green anaconda,MH273960.1,https://www.ncbi.nlm.nih.gov/nucleotide/MH273960.1
+,Haliaeetus leucocephalus,Eukaryota,bald eagle,MN356134.1,https://www.ncbi.nlm.nih.gov/nucleotide/MN356134.1
+,Ailuropoda melanoleuca,Eukaryota,giant panda,NC_009492.1,https://www.ncbi.nlm.nih.gov/nucleotide/NC_009492.1
+,Ambystoma mexicanum,Eukaryota,axolotl,NC_005797.1,https://www.ncbi.nlm.nih.gov/nucleotide/NC_005797.1
